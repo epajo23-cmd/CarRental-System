@@ -18,18 +18,6 @@ Features
 - Handle users
 - Generate invoices
 
-
-## Project Structure
-src/
-
-├── controller/ # UI logic (JavaFX controllers)
-├── model/ # Core entities (Booking, Car, User, etc.)
-├── service/ # Business logic (Auth, Booking, Pricing)
-├── storage/ # Data persistence (binary files)
-└── main/ # Entry point & app navigation
-
-
-
 ## Technologies Used
 
 - Java
