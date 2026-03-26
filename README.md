@@ -21,6 +21,7 @@ Features
 
 ## Project Structure
 src/
+
 ├── controller/ # UI logic (JavaFX controllers)
 ├── model/ # Core entities (Booking, Car, User, etc.)
 ├── service/ # Business logic (Auth, Booking, Pricing)
