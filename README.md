@@ -1,6 +1,6 @@
 Car Rental System
 
-A desktop-based Car Rental System built using **Java** and **JavaFX**, following an MVC architecture. The system allows users to browse cars, make bookings, and manage rentals, while administrators and workers can manage the platform.
+A desktop-based Car Rental System built using **Java** and **JavaFX**, following an MVC architecture. The system allows users to browse cars, make bookings, and manage rentals, while administrators and workers can manage the platform. This project was done by Eden Pajo(github.com/epajo23-cmd) and Thomas Kroj(github.com/tthomas2512) and uploaded to github after being finished.
 
 
 Features
