@@ -18,7 +18,6 @@ Features
 - Handle users
 - Generate invoices
 
----
 
 ## Project Structure
 src/
@@ -29,7 +28,6 @@ src/
 └── main/ # Entry point & app navigation
 
 
----
 
 ## Technologies Used
 
@@ -38,7 +36,6 @@ src/
 - Maven
 - File-based storage (binary `.dat` files)
 
----
 
 ## Data Storage
 
@@ -48,7 +45,6 @@ The system uses local binary files to store data:
 - `bookings.dat`
 - Generated invoices
 
----
 
 ## How to Run
 
